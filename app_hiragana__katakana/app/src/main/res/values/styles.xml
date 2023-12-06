@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Diviser_Viwes">
+        <item  name="android:layout_width">130dp</item>
+        <item  name="android:layout_height">1dp</item>
+        <item  name="android:background">@drawable/diviser_components</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:layout_marginStart">30dp</item>
+    </style>
+
+    <style name="Circle_Letters_Viwes">
+        <item  name="android:layout_width">90dp</item>
+        <item  name="android:layout_height">90dp</item>
+        <item  name="android:background">@drawable/circle_letters</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:layout_marginStart">30dp</item>
+    </style>
+</resources>
