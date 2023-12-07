@@ -1,5 +1,5 @@
 # Japaprende
-## Sistema Mobile de Aprendizagem rápida de Consulta de dicionário official da lingua Japonesa
+## Sistema Mobile de Aprendizagem rápida de Consulta de dicionário da lingua Japonesa
 <br>
 <hr>
 
