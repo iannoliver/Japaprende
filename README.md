@@ -1,4 +1,4 @@
-![MuaKissGIF](https://github.com/iannoliver/Japaprende/assets/100435787/95683e26-ceff-40fe-bd69-c9a155db55a7)# Japaprende
+# Japaprende
 ## Sistema Mobile de Aprendizagem rápida de Consulta de dicionário official da lingua Japonesa
 <br>
 <hr>
@@ -8,6 +8,8 @@
 ## Descrição: <br>
 É um sistema íntegro, com ferramentas simples e objetivas de cunho educacional e aprendizagem em Linguas e Letras. <br>
 Nesse caso: O Japonês Moderno
+![YupUhuhGIF](https://github.com/iannoliver/Japaprende/assets/100435787/eb6f0659-38b3-45db-8b9e-181b88c2ac53)
+
 
 !["Tela_Principal"](icon/APP1.png)
 <br>
@@ -32,6 +34,8 @@ Já o Katakana é para escrever palavras de origem estrangeira, assim como nomes
 - "Android Studio Girafe" - Ultima versão Disponivel
 - Ou baixe algum aplicativo que possa ler o QRcode do Japaprende
 - Ouu aguarde no Play Store / Apple Store 😎
+  ![Uploading CincinnatiBengalsGriddyGIF.gif…]()
+
 
 ### Nossas redes sociais para acompanhar novos projetos: <br>
   <a href="https://www.linkedin.com/in/iann-oliveira-3106b11a4/" target="_blank">Iann Oliveira | RA: 1719175<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
